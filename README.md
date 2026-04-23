@@ -13,7 +13,12 @@ Given a plain-text list of species names, this pipeline:
 
 - [ete3](http://etetoolkit.org/) (`pip install ete3`)
 - [Plotly](https://plotly.com/python/) (`pip install plotly`)
-- The NCBI taxonomy dump (`taxdump.tar.gz`) — included in each step directory or downloadable from [NCBI](https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz)
+- NCBI taxonomy dump (`taxdump.tar.gz`) — download it into each step directory before running:
+
+```bash
+wget -P 1_convert_to_taxid/ https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
+wget -P 2_recover_lineage/ https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
+```
 
 ## Pipeline
 
