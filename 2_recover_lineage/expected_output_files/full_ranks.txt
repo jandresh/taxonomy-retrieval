@@ -1,0 +1,6 @@
+kingdom_id	phylum_id	class_id	order_id	family_id	genus_id	species_id
+{4751: 'Fungi'}	{4890: 'Ascomycota'}	{147545: 'Eurotiomycetes'}	{5042: 'Eurotiales'}	{1131492: 'Aspergillaceae'}	{5052: 'Aspergillus'}	{162425: 'Aspergillus nidulans'}
+{4751: 'Fungi'}	{4761: 'Chytridiomycota'}	{451435: 'Chytridiomycetes'}	{2231171: 'Synchytriales'}	{286113: 'Synchytriaceae'}	{286114: 'Synchytrium'}	{286115: 'Synchytrium endobioticum'}
+{4751: 'Fungi'}	{4890: 'Ascomycota'}	{147545: 'Eurotiomycetes'}	{5042: 'Eurotiales'}	{1131492: 'Aspergillaceae'}	{5052: 'Aspergillus'}	{162425: 'Aspergillus nidulans'}
+<not present>	<not present>	<not present>	<not present>	<not present>	<not present>	<not present>
+{4751: 'Fungi'}	{5204: 'Basidiomycota'}	{452283: 'Exobasidiomycetes'}	{62916: 'Tilletiales'}	{5279: 'Tilletiaceae'}	{13289: 'Tilletia'}	{43049: 'Tilletia indica'}
